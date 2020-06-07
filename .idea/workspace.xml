@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="895ec7e9-bcdf-4d6b-a574-90f44239d48b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d05VokZdwuao0yMxyqLMMhVf3U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasmidur.showroom.Customer" />
+      <module name="DSI-Question-1(Vehicle Showroom)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasmidur.showroom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Customer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="895ec7e9-bcdf-4d6b-a574-90f44239d48b" name="Default Changelist" comment="" />
+      <created>1591549195867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591549195867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="66" width="548" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1591552014902">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state x="491" y="66" width="548" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1366.706@0.27.1366.706" timestamp="1591552014902" />
+    <state x="524" y="271" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591549415685">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state x="524" y="271" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.706@0.27.1366.706" timestamp="1591549415685" />
+    <state width="1310" height="141" key="GridCell.Tab.0.bottom" timestamp="1591556329970">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1310" height="141" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1591556329970" />
+    <state width="1310" height="141" key="GridCell.Tab.0.center" timestamp="1591556329969">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1310" height="141" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1591556329969" />
+    <state width="1310" height="141" key="GridCell.Tab.0.left" timestamp="1591556329969">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1310" height="141" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1591556329969" />
+    <state width="1310" height="141" key="GridCell.Tab.0.right" timestamp="1591556329970">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1310" height="141" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1591556329970" />
+    <state x="416" y="119" width="524" height="520" key="extract.method.dialog" timestamp="1591550286358">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state x="416" y="119" width="524" height="520" key="extract.method.dialog/0.27.1366.706@0.27.1366.706" timestamp="1591550286358" />
+    <state x="347" y="166" key="run.anything.popup" timestamp="1591553440508">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state x="347" y="166" key="run.anything.popup/0.27.1366.706@0.27.1366.706" timestamp="1591553440508" />
+  </component>
+</project>
